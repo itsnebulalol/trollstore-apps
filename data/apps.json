@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Santander",
+        "category": "File Management",
+        "description": "Beautiful and modern file manager for iOS 14+",
+        "download": "[Download](https://nightly.link/itsnebulalol/SantanderTS/workflows/build/main/Santander.zip)"
+    },
+    {
+        "name": "Filza",
+        "category": "File Management",
+        "description": "File manager with root helper, so you can modify all of /var",
+        "download": "[Download](https://www.tigisoftware.com/default/?p=439)"
+    },
+    {
+        "name": "AppStore++",
+        "category": "Utilities",
+        "description": "Downgrade App Store apps",
+        "download": "[Download](https://github.com/CokePokes/AppStorePlus-TrollStore/releases)"
+    },
+    {
+        "name": "PojavLauncher",
+        "category": "Games",
+        "description": "Minecraft java on iOS with JIT",
+        "download": "[Download](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)"
+    },
+    {
+        "name": "TrollNonce",
+        "category": "Utilities",
+        "description": "Set your nonce to downgrade with FutureRestore",
+        "download": "[Download](https://github.com/opa334/TrollNonce/releases)"
+    },
+    {
+        "name": "RedDot",
+        "category": "Customization",
+        "description": "Change the red notification dot color",
+        "download": "[Download](https://github.com/s8ngyu/red-dot/releases)"
+    },
+    {
+        "name": "Apps Manager",
+        "category": "Utilities",
+        "description": "Wipe and backup apps",
+        "download": "[Download](https://www.tigisoftware.com/default/?p=435)"
+    },
+    {
+        "name": "Legizmo",
+        "category": "Utilities",
+        "description": "Pair unsupported Apple Watches",
+        "download": "[Download](https://www.patreon.com/lunotech11)"
+    },
+    {
+        "name": "Cardio",
+        "category": "Customization",
+        "description": "Change Apple Pay card images",
+        "download": "[Download](https://github.com/cisc0disco/Cardio/releases)"
+    },
+    {
+        "name": "JitterBug",
+        "category": "Utilities",
+        "description": "JIT with most TrollStore apps",
+        "download": "[Download](https://github.com/osy/Jitterbug/releases)"
+    },
+    {
+        "name": "Mugunghwa",
+        "category": "Customization",
+        "description": "All-in-one customization tool",
+        "download": "[Download](https://github.com/s8ngyu/Mugunghwa/releases/)"
+    }
+]
