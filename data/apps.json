@@ -3,66 +3,70 @@
         "name": "Santander",
         "category": "File Management",
         "description": "Beautiful and modern file manager for iOS 14+",
-        "download": "[Download](https://nightly.link/itsnebulalol/SantanderTS/workflows/build/main/Santander.zip)"
+        "download": "[Download](https://nightly.link/SerenaKit/Santander/workflows/build/main/SantanderTS.zip)",
+        "install": "-"
     },
     {
         "name": "Filza",
         "category": "File Management",
         "description": "File manager with root helper, so you can modify all of /var",
-        "download": "[Download](https://www.tigisoftware.com/default/?p=439)"
+        "download": "[Download](https://www.tigisoftware.com/default/?p=439)",
+        "install": "[Install](apple-magnifier://install?url=https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa)"
     },
     {
         "name": "AppStore++",
         "category": "Utilities",
         "description": "Downgrade App Store apps",
-        "download": "[Download](https://github.com/CokePokes/AppStorePlus-TrollStore/releases)"
+        "download": "[Download](https://github.com/CokePokes/AppStorePlus-TrollStore/releases)",
+        "install": "[Install](apple-magnifier://install?url=https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa)"
     },
     {
         "name": "PojavLauncher",
         "category": "Games",
         "description": "Minecraft java on iOS with JIT",
-        "download": "[Download](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)"
+        "download": "[Download](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)",
+        "install": "-"
     },
     {
         "name": "TrollNonce",
         "category": "Utilities",
         "description": "Set your nonce to downgrade with FutureRestore",
-        "download": "[Download](https://github.com/opa334/TrollNonce/releases)"
+        "download": "[Download](https://github.com/opa334/TrollNonce/releases)",
+        "install": "[Install](apple-magnifier://install?url=https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa)"
     },
     {
-        "name": "RedDot",
+        "name": "TrollTools",
         "category": "Customization",
-        "description": "Change the red notification dot color",
-        "download": "[Download](https://github.com/s8ngyu/red-dot/releases)"
+        "description": "All-in-one customization tool",
+        "download": "[Download](https://github.com/sourcelocation/TrollTools/releases)",
+        "install": "[Install](apple-magnifier://install?url=https://github.com/sourcelocation/TrollTools/releases/download/2.1.2/TrollTools-2.1.2.tipa)"
     },
     {
         "name": "Apps Manager",
         "category": "Utilities",
         "description": "Wipe and backup apps",
-        "download": "[Download](https://www.tigisoftware.com/default/?p=435)"
+        "download": "[Download](https://www.tigisoftware.com/default/?p=435)",
+        "install": "[Install](apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa)"
     },
     {
         "name": "Legizmo",
         "category": "Utilities",
         "description": "Pair unsupported Apple Watches",
-        "download": "[Download](https://www.patreon.com/lunotech11)"
+        "download": "[Download](https://www.patreon.com/lunotech11)",
+        "install": "-"
     },
     {
         "name": "Cardio",
         "category": "Customization",
         "description": "Change Apple Pay card images",
-        "download": "[Download](https://github.com/cisc0disco/Cardio/releases)"
+        "download": "[Download](https://github.com/cisc0disco/Cardio/releases)",
+        "install": "[Install](apple-magnifier://install?url=https://github.com/cisc0disco/Cardio/releases/latest/download/Cardio.ipa)"
     },
     {
         "name": "JitterBug",
         "category": "Utilities",
         "description": "JIT with most TrollStore apps",
-        "download": "[Download](https://github.com/osy/Jitterbug/releases)"
-    },
-    {
-        "name": "Mugunghwa",
-        "category": "Customization",
-        "description": "All-in-one customization tool",
-        "download": "[Download](https://github.com/s8ngyu/Mugunghwa/releases/)"
+        "download": "[Download](https://github.com/osy/Jitterbug/releases)",
+        "install": "[Install](apple-magnifier://install?url=https://github.com/osy/Jitterbug/releases/latest/download/Jitterbug.ipa)"
     }
 ]
