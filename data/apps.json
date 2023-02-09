@@ -24,7 +24,7 @@
         "name": "PojavLauncher",
         "category": "Games",
         "description": "Minecraft java on iOS with JIT",
-        "download": "[Download](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher.ipa.zip)",
+        "download": "[Download](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/tag/v2.1.3)",
         "direct": "-"
     },
     {
