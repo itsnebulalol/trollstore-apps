@@ -3,7 +3,7 @@
         "name": "Santander",
         "category": "File Management",
         "description": "Beautiful and modern file manager for iOS 14+",
-        "download": "[Download](https://nightly.link/SerenaKit/Santander/workflows/build/main/SantanderTS.zip)",
+        "download": "[Download](https://github.com/SerenaKit/Santander/suites/9297579855/artifacts/436210123)",
         "direct": "-"
     },
     {
@@ -11,7 +11,7 @@
         "category": "File Management",
         "description": "File manager with root helper, so you can modify all of /var",
         "download": "[Download](https://www.tigisoftware.com/default/?p=439)",
-        "direct": "[Direct](https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa)"
+        "direct": "[Direct](https://tigisoftware.com/download/Filza_NoURLScheme_4.0.0.ipa)"
     },
     {
         "name": "AppStore++",
@@ -68,5 +68,12 @@
         "description": "JIT with most TrollStore apps",
         "download": "[Download](https://github.com/osy/Jitterbug/releases)",
         "direct": "[Direct](https://github.com/osy/Jitterbug/releases/latest/download/Jitterbug.ipa)"
+    },
+    {
+        "name": "Cowabunga",
+        "category": "Utilities",
+        "description": "Includes lots of new features and old features from TrollStore",
+        "download": "[Download](https://github.com/leminlimez/Cowabunga/releases)",
+        "direct": "[Direct](https://github.com/leminlimez/Cowabunga/releases/download/v7.0.4/Cowabunga.ipa)"
     }
 ]
