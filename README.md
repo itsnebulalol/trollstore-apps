@@ -14,7 +14,6 @@ A compiled list of common apps for TrollStore, from the official developers of t
 | Santander     | File Management | Beautiful and modern file manager for iOS 14+                | [Download](https://github.com/SerenaKit/Santander/suites/9297579855/artifacts/436210123)                                     | -                                                                                                                          |
 | TrollNonce    | Utilities       | Set your nonce to downgrade with FutureRestore               | [Download](https://github.com/opa334/TrollNonce/releases)                                                                     | [Direct](https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa)                                    |
 | TrollTools    | Customization   | All-in-one customization tool                                | [Download](https://github.com/sourcelocation/TrollTools/releases)                                                             | [Direct](https://github.com/sourcelocation/TrollTools/releases/download/3.0/TrollTools.tipa)                       |
-
 | Cowabunga    | Utilities   | Includes lots of new features and old features from TrollStore                                | [Download](https://github.com/leminlimez/Cowabunga/releases)                                                             | [Direct](https://github.com/leminlimez/Cowabunga/releases/download/v7.0.4/Cowabunga.ipa))                       |
 ---
 
