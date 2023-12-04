@@ -115,7 +115,7 @@
         "name": "TrollSign",
         "category": "Utilities",
         "description": "Modify app entitlements",
-        "download": "[Download](https://github.com/donato-fiore/TrollDecrypt/releases)",
-        "direct": "-"
+        "download": "-",
+        "direct": "[Direct](https://ipa.cypwn.xyz/serve/get.php?md5=40cd9f0538ab447697e1bad96a96d32f)"
     }
 ]
