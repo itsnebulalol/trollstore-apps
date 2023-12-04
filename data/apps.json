@@ -117,12 +117,5 @@
         "description": "Modify app entitlements",
         "download": "[Download](https://github.com/donato-fiore/TrollDecrypt/releases)",
         "direct": "-"
-    },
-    {
-        "name": "TrollSign",
-        "category": "Utilities",
-        "description": "Modify app entitlements",
-        "download": "[Download](https://github.com/donato-fiore/TrollDecrypt/releases)",
-        "direct": "-"
-    },
+    }
 ]
