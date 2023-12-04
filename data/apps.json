@@ -75,5 +75,47 @@
         "description": "Includes lots of new features and old features from TrollStore",
         "download": "[Download](https://github.com/leminlimez/Cowabunga/releases)",
         "direct": "[Direct](https://github.com/leminlimez/Cowabunga/releases/download/v8.0.3/Cowabunga.ipa)"
+    },
+    {
+        "name": "TrollBox",
+        "category": "Utilities",
+        "description": "A TrollStore app that embed all TrollStore tools",
+        "download": "[Download](https://github.com/c22dev/TrollBox/releases)",
+        "direct": "[Direct](https://github.com/c22dev/TrollBox/releases/latest/download/TrollBox.tipa)"
+    },
+    {
+        "name": "Helium",
+        "category": "Customization",
+        "description": "Status Bar Widgets for TrollStore iPhones on iOS 15+. Works on Jailbroken devices as well.",
+        "download": "[Download](https://github.com/leminlimez/Helium/releases)",
+        "direct": "[Direct](https://github.com/leminlimez/Helium/releases/latest/download/Helium.tipa)"
+    },
+    {
+        "name": "Antoine",
+        "category": "Utilities",
+        "description": "An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options.",
+        "download": "[Download](https://github.com/NSAntoine/Antoine/releases)",
+        "direct": "[Direct](https://github.com/NSAntoine/Antoine/releases/latest/download/AntoineTrollStore.tipa)"
+    },
+    {
+        "name": "CocoaTop",
+        "category": "Utilities",
+        "description": "Process Viewer for iOS GUI",
+        "download": "[Download](https://github.com/D0m0/CocoaTop/releases)",
+        "direct": "[Direct](https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/CocoaTopTS_BZ.ipa)"
+    },
+    {
+        "name": "TrollDecrypt",
+        "category": "Utilities",
+        "description": "iOS IPA Decrypter for TrollStore",
+        "download": "[Download](https://github.com/donato-fiore/TrollDecrypt/releases)",
+        "direct": "[Direct](https://github.com/donato-fiore/TrollDecrypt/releases/latest/download/TrollDecrypt.tipa)"
+    },
+    {
+        "name": "TrollSign",
+        "category": "Utilities",
+        "description": "Modify app entitlements",
+        "download": "-",
+        "direct": "[Direct](https://ipa.cypwn.xyz/serve/get.php?md5=40cd9f0538ab447697e1bad96a96d32f)"
     }
 ]
